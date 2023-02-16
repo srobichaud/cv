@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+# From November 2017 to now:
 
-You can use the [editor on GitHub](https://github.com/srobichaud/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Web Developer & Senior Web Developer
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### DGK.ca, Victoriaville
 
-### Markdown
+- Develop web applications and websites
+- Maintain Classic ASP, ASP.net and PHP systems.
+- Develop strong PHP applications using Laravel
+- Build strong front-end website using HTML, CSS, JS (mainly jQuery and VueJs)
+- Lead the software department.
+- Supervise interns in web development.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Summer 2015 :
 
-```markdown
-Syntax highlighted code block
+## Hulix Conseil Inc., Victoriaville
 
-# Header 1
-## Header 2
-### Header 3
+ - Develop Win32 apps in a industrial context
+ - Develop OSI Pi database for industrial clients.
+ 
+# From June 2013 to October 2017
 
-- Bulleted
-- List
+## Web Developer & Senior Web Developer
 
-1. Numbered
-2. List
+### Publi-Web.net Solutions, Victoriaville
 
-**Bold** and _Italic_ and `Code` text
+- Develop web applications and websites
+- Maintain Classic ASP systems.
+- Develop ASP.net websites, applications and APIs
+- Build strong front-end website using HTML, CSS, JS (jQuery, Angular, VueJs)
+- Develop mobile apps for iOS devices (using Phonegap and Swift)
+- Maintain PHP applications (Drupal, Wordpress)
+- Supervise interns in web development.
 
-[Link](url) and ![Image](src)
-```
+# From January 2013 to May 2013
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Researcher-trainee in the LAMIH laboratory
 
-### Jekyll Themes
+### Université de Valenciennes et du Hainaut-Cambrésis, France
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/srobichaud/cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Learn how to interact with RFID tags in Java
+- Develop Java apps on a touch table
+- Help other interns to understand the way the table works
