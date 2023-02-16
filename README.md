@@ -1,6 +1,6 @@
 # From November 2017 to now:
 
-## Senior Web Developer
+## Web Developer & Senior Web Developer
 
 ### DGK.ca, Victoriaville
 
@@ -20,7 +20,7 @@
  
 # From June 2013 to October 2017
 
-## Senior Web Developer
+## Web Developer & Senior Web Developer
 
 ### Publi-Web.net Solutions, Victoriaville
 
