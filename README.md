@@ -1,4 +1,4 @@
-# From November 2017 to now:
+# From November 2017 to January 2025:
 
 ## Web Developer & Senior Web Developer
 
